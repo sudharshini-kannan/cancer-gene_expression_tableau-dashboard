@@ -13,6 +13,8 @@ cancer-gene_expression_tableau-dashboard/
 ├── images/ # Dashboard screenshots 
 └── README.md # Project documentation
 
+![Dashboard](images/cancer_Tableau_dashboard.jpg)
+
 ## 🧬 Features
 
 - Visualization of gene expression levels across cancer types
